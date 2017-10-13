@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Grade.cpp">
+    <ClCompile Include="factorials.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
