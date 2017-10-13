@@ -4,7 +4,8 @@
 using namespace std;
 int main() {
 	int part1, part2, part3;
-	const int full = 60;
+	const float full = 60;
+
 	cout << "Enter three integers between 0 and 20 and separate them by a space:" << endl;
 	cin >> part1 >> part2 >> part3;
 
@@ -14,5 +15,4 @@ int main() {
 	cout << "The grade in percentage is " << ratio * 100 << '.' << endl;
 
 	return 0;
-
 }
